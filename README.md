@@ -1,2 +1,2 @@
-# BIKE-SHARING-BSTA-450
-A multiple regression analysis
+# BSTA-450-DATASETS
+Datasets for assignments and project
